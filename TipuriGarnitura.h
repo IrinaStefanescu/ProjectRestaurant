@@ -1,0 +1,7 @@
+#pragma once
+
+enum class TIPURI_GARNITURA{
+    CARTOFI_PRAJITI,
+    CARTOFI_PIURE,
+    OREZ_SARBESC
+};
